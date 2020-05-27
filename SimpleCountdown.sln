@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30105.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCountdown.Client", "SimpleCountdown.Client\SimpleCountdown.Client.csproj", "{CCB113FE-79FD-42D5-8E8C-087EF76C4EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCountdown.Server", "SimpleCountdown.Server\SimpleCountdown.Server.csproj", "{B434AFC3-D19E-40F0-B4BD-94B44FD350DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB113FE-79FD-42D5-8E8C-087EF76C4EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB113FE-79FD-42D5-8E8C-087EF76C4EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB113FE-79FD-42D5-8E8C-087EF76C4EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB113FE-79FD-42D5-8E8C-087EF76C4EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B434AFC3-D19E-40F0-B4BD-94B44FD350DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B434AFC3-D19E-40F0-B4BD-94B44FD350DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B434AFC3-D19E-40F0-B4BD-94B44FD350DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B434AFC3-D19E-40F0-B4BD-94B44FD350DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15A89CD-679F-4510-8F59-8472597258DA}
+	EndGlobalSection
+EndGlobal
